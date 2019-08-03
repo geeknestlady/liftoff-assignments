@@ -8,10 +8,10 @@ Initial project plans for MeepleFinder.
 
 ### Wireframes
 
-1. ![HomePage](\liftoff-assignments\Images\MeepleFinderWFHome.jpg)
-2. ![View Games Page](\liftoff-assignments\Images\MeepleFinderViewGames.jpg)
-3. ![Rate Games](\Images\MeepleFinderRate.jpg)
-4. ![User Profile](\Images\MeepleFinderProfile.jpg)
+1. ![Homepage](Images\MeepleFinderWFHome.jpg)
+2. ![View Games Page](\geeknestlady\liftoff-assignments\Images\MeepleFinderViewGames.jpg)
+3. ![Rate Games](C:\Users\TEMP\Source\Repos\geeknestlady\liftoff-assignments\Images\MeepleFinderRate.jpg)
+4. ![User Profile](C:\Users\TEMP\Source\Repos\geeknestlady\liftoff-assignments\Images\MeepleFinderProfile.jpg)
 
 ### Project Tracker
 
