@@ -1,5 +1,5 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
+Initial project plans for MeepleFinder.
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
@@ -8,12 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+1. ![HomePage](\liftoff-assignments\Images\MeepleFinderWFHome.jpg)
+2. ![View Games Page](\liftoff-assignments\Images\MeepleFinderViewGames.jpg)
+3. ![Rate Games](\Images\MeepleFinderRate.jpg)
+4. ![User Profile](\Images\MeepleFinderProfile.jpg)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[MeepleFinder Trello Board](https://trello.com/b/a8zHOfQv/liftoff-capstone-project)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[MeepleFinder on GitHub](https://github.com/geeknestlady/MeepleFinder)
